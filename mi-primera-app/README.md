@@ -1,11 +1,11 @@
 
  ## Lista de tareas (To-Do List) simple
 
- Permite escribir una tarea en un input y agregarla a una lista.
- Muestra las tareas en pantalla.
- Permite eliminar tareas al hacer clic en un botón.
- Usa useState para manejar la lista.
- Aplica estilos con CSS para que la lista sea legible y atractiva.
+- Permite escribir una tarea en un input y agregarla a una lista.
+- Muestra las tareas en pantalla.
+- Permite eliminar tareas al hacer clic en un botón.
+- Usa useState para manejar la lista.
+- Aplica estilos con CSS para que la lista sea legible y atractiva.
 
 ## Características
 - Añadir tareas: Input controlado mediante `useState`.
